@@ -1,0 +1,4 @@
+Passenger Name: 45
+Train ID: 4
+Seat Number: 2
+----------------------------------------

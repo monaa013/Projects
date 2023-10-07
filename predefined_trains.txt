@@ -1,0 +1,25 @@
+1,Vande Bharat Express,Bangalore,Chennai,06:00 AM,11:00 AM
+2,Himsagar Express,Kashmir,Kanyakumari,11:00 AM,12:00 PM
+3,Vivek Express,Kanyakumari,Dibrugarh,11:00 PM,12:00 AM
+4,Shatabdi Express,Chennai,Bangalore,9:00 AM,5:00 PM
+5,Rajdhani Express,Delhi,Mumbai,8:00 AM,9:45 PM 
+6,Chennai Express,Chennai,Mumbai,7:30 AM,9:45 PM
+7,Mumbai Mail,Mumbai,Delhi,8:15 AM,11:30 PM
+8,Bangalore Rajdhani,Bangalore,New Delhi,6:45 AM,8:30 PM
+9,Shalimar Express,Kolkata,Amritsar,9:00 AM,11:45 PM
+10,Gatimaan Express,Delhi,Agra,7:00 AM,9:45 AM
+11,Deccan Queen,Mumbai,Pune,7:00 AM,10:25 AM
+12,Goa Express,Mumbai,Goa,4:30 AM,3:00 PM
+13,Bhopal Shatabdi,Bhopal,New Delhi,6:00 AM,3:30 PM
+14,Jaipur Express,Jaipur,Mumbai,8:45 AM,10:15 PM
+15,Ahmedabad Express,Ahmedabad,Delhi,9:30 AM,11:15 PM
+16,Howrah Mail,Kolkata,Chennai,6:00 AM,8:45 PM
+17,Mysore Express,Mysore,Chennai,8:15 AM,10:45 PM
+18,Purushottam Express,Bhubaneswar,New Delhi,7:30 AM,8:30 PM
+19,Konkan Kanya Express,Mumbai,Ernakulam,9:00 AM,10:15 PM
+20,Chennai Duronto,Chennai,New Delhi,6:45 AM,10:00 PM
+21,Trivandrum Rajdhani,Trivandrum,New Delhi,5:30 AM,6:00 PM
+22,Rajdhani Express,Bhubaneswar,New Delhi,6:30 AM,8:30 PM
+23,Bangalore Mail,Bangalore,Chennai,7:15 AM,9:30 PM
+24,Kolkata Duronto,Kolkata,Delhi,6:00 AM,9:45 PM
+25,Punjab Mail,Delhi,Mumbai,5:30 AM,9:45 PM
